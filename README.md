@@ -22,10 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bhavesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhavesh mandawriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh mandawriya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/forzun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="forzun" height="30" width="40" /></a>
-<a href="https://instagram.com/forzun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="forzun" height="30" width="40" /></a>
+<a href="https://twitter.com/ForZun_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavesh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhavesh-mandawriya-981a4228b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh mandawriya" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26537356/forzun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="forzun" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_forzun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="forzun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

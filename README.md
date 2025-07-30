@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.pinimg.com/1200x/ce/b3/0d/ceb30dfae137158bcecbfa4586c0400c.jpg" alt="my banner">
+<img width="100%" src="https://i.pinimg.com/1200x/fd/94/23/fd94231a659794211ba2e8850e244463.jpg" alt="my banner">
 <h1 align="center">Hi 👋, I'm Bhavesh</h1>
 <h3 align="center">I am a Full Stack Developer in progress, with a strong foundation in frontend development and hands-on experience in building user-focused web applications. Having already completed my frontend learning, I am currently expanding my expertise by diving into backend integration.</h3>
 

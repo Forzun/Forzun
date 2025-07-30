@@ -1,6 +1,6 @@
 <img width="100%" src="https://i.pinimg.com/1200x/fd/94/23/fd94231a659794211ba2e8850e244463.jpg" alt="my banner">
 <h1 align="center">Hi 👋, I'm Bhavesh</h1>
-<h3 align="center">I am a Full Stack Developer in progress, with a strong foundation in frontend development and hands-on experience in building user-focused web applications. Having already completed my frontend learning, I am currently expanding my expertise by diving into backend integration.</h3>
+<h3 align="center">Full Stack Developer fluent in React, Node.js, and suspiciously long console logs. I build sleek frontends, functional backends, and recently started teaching my apps to think using AI. Whether it's summarizing text, enhancing UX, or automating boring stuff, AI is quietly doing the heavy lifting while I take the credit. I'm the kind of dev who refactors a function three times before lunch, ships at midnight, and somehow makes it all look intentional.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" >
 
